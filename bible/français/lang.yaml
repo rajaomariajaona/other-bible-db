@@ -1,0 +1,331 @@
+GEN:
+  short_name: Gen
+  full_name: Genèse
+  testament: OT
+  index: 1
+EXO:
+  short_name: Exo
+  full_name: Exode
+  testament: OT
+  index: 2
+LEV:
+  short_name: Lev
+  full_name: Lévitique
+  testament: OT
+  index: 3
+NUM:
+  short_name: Num
+  full_name: Nombres
+  testament: OT
+  index: 4
+DEU:
+  short_name: Deu
+  full_name: Deutéronome
+  testament: OT
+  index: 5
+JOS:
+  short_name: Jos
+  full_name: Josué
+  testament: OT
+  index: 6
+
+JDG:
+  short_name: Jdg
+  full_name: Juges
+  testament: OT
+  index: 7
+RUT:
+  short_name: Rut
+  full_name: Ruth
+  testament: OT
+  index: 8
+1SA:
+  short_name: 1 Sam
+  full_name: 1 Samuel
+  testament: OT
+  index: 9
+2SA:
+  short_name: 2 Sam
+  full_name: 2 Samuel
+  testament: OT
+  index: 10
+1KI:
+  short_name: 1 Rois
+  full_name: 1 Rois
+  testament: OT
+  index: 11
+2KI:
+  short_name: 2 Rois
+  full_name: 2 Rois
+  testament: OT
+  index: 12
+1CH:
+  short_name: 1 Chr
+  full_name: 1 Chroniques
+  testament: OT
+  index: 13
+2CH:
+  short_name: 2 Chr
+  full_name: 2 Chroniques
+  testament: OT
+  index: 14
+EZR:
+  short_name: Esd
+  full_name: Esdras
+  testament: OT
+  index: 15
+NEH:
+  short_name: Néh
+  full_name: Néhémie
+  testament: OT
+  index: 16
+EST:
+  short_name: Est
+  full_name: Esther
+  testament: OT
+  index: 17
+JOB:
+  short_name: Job
+  full_name: Job
+  testament: OT
+  index: 18
+PSA:
+  short_name: Ps
+  full_name: Psaumes
+  testament: OT
+  index: 19
+PRO:
+  short_name: Pro
+  full_name: Proverbes
+  testament: OT
+  index: 20
+ECC:
+  short_name: Eccl
+  full_name: Ecclésiaste
+  testament: OT
+  index: 21
+SNG:
+  short_name: Cant
+  full_name: Cantique des Cantiques
+  testament: OT
+  index: 22
+ISA:
+  short_name: Ésa
+  full_name: Ésaïe
+  testament: OT
+  index: 23
+JER:
+  short_name: Jér
+  full_name: Jérémie
+  testament: OT
+  index: 24
+LAM:
+  short_name: Lam
+  full_name: Lamentations
+  testament: OT
+  index: 25
+EZK:
+  short_name: Ézéc
+  full_name: Ézéchiel
+  testament: OT
+  index: 26
+DAN:
+  short_name: Dan
+  full_name: Daniel
+  testament: OT
+  index: 27
+HOS:
+  short_name: Osée
+  full_name: Osée
+  testament: OT
+  index: 28
+JOL:
+  short_name: Joël
+  full_name: Joël
+  testament: OT
+  index: 29
+AMO:
+  short_name: Amos
+  full_name: Amos
+  testament: OT
+  index: 30
+OBA:
+  short_name: Abd
+  full_name: Abdias
+  testament: OT
+  index: 31
+JON:
+  short_name: Jon
+  full_name: Jonas
+  testament: OT
+  index: 32
+MIC:
+  short_name: Mic
+  full_name: Michée
+  testament: OT
+  index: 33
+NAM:
+  short_name: Nah
+  full_name: Nahum
+  testament: OT
+  index: 34
+HAB:
+  short_name: Hab
+  full_name: Habacuc
+  testament: OT
+  index: 35
+ZEP:
+  short_name: Soph
+  full_name: Sophonie
+  testament: OT
+  index: 36
+HAG:
+  short_name: Aggée
+  full_name: Aggée
+  testament: OT
+  index: 37
+ZEC:
+  short_name: Zac
+  full_name: Zacharie
+  testament: OT
+  index: 38
+MAL:
+  short_name: Mal
+  full_name: Malachie
+  testament: OT
+  index: 39
+MAT:
+  short_name: Mat
+  full_name: Matthieu
+  testament: NT
+  index: 40
+MRK:
+  short_name: Marc
+  full_name: Marc
+  testament: NT
+  index: 41
+LUK:
+  short_name: Luc
+  full_name: Luc
+  testament: NT
+  index: 42
+JHN:
+  short_name: Jean
+  full_name: Jean
+  testament: NT
+  index: 43
+ACT:
+  short_name: Act
+  full_name: Actes
+  testament: NT
+  index: 44
+ROM:
+  short_name: Rom
+  full_name: Romains
+  testament: NT
+  index: 45
+1CO:
+  short_name: 1 Cor
+  full_name: 1 Corinthiens
+  testament: NT
+  index: 46
+2CO:
+  short_name: 2 Cor
+  full_name: 2 Corinthiens
+  testament: NT
+  index: 47
+GAL:
+  short_name: Gal
+  full_name: Galates
+  testament: NT
+  index: 48
+EPH:
+  short_name: Eph
+  full_name: Éphésiens
+  testament: NT
+  index: 49
+PHP:
+  short_name: Phlp
+  full_name: Philippiens
+  testament: NT
+  index: 50
+COL:
+  short_name: Col
+  full_name: Colossiens
+  testament: NT
+  index: 51
+1TH:
+  short_name: 1 The
+  full_name: 1 Thessaloniciens
+  testament: NT
+  index: 52
+2TH:
+  short_name: 2 The
+  full_name: 2 Thessaloniciens
+  testament: NT
+  index: 53
+1TI:
+  short_name: 1 Tim
+  full_name: 1 Timothée
+  testament: NT
+  index: 54
+2TI:
+  short_name: 2 Tim
+  full_name: 2 Timothée
+  testament: NT
+  index: 55
+TIT:
+  short_name: Tit
+  full_name: Tite
+  testament: NT
+  index: 56
+PHM:
+  short_name: Phlm
+  full_name: Philémon
+  testament: NT
+  index: 57
+HEB:
+  short_name: Héb
+  full_name: Hébreux
+  testament: NT
+  index: 58
+JAS:
+  short_name: Jacques
+  full_name: Jacques
+  testament: NT
+  index: 59
+1PE:
+  short_name: 1 Pie
+  full_name: 1 Pierre
+  testament: NT
+  index: 60
+2PE:
+  short_name: 2 Pie
+  full_name: 2 Pierre
+  testament: NT
+  index: 61
+1JN:
+  short_name: 1 Jean
+  full_name: 1 Jean
+  testament: NT
+  index: 62
+2JN:
+  short_name: 2 Jean
+  full_name: 2 Jean
+  testament: NT
+  index: 63
+3JN:
+  short_name: 3 Jean
+  full_name: 3 Jean
+  testament: NT
+  index: 64
+JUD:
+  short_name: Jude
+  full_name: Jude
+  testament: NT
+  index: 65
+REV:
+  short_name: Apo
+  full_name: Apocalypse
+  testament: NT
+  index: 66

@@ -1,0 +1,94 @@
+languages:
+- language: english
+  translation: bible/english/lang.yaml
+  bibles:
+  - version_id: AMP
+    bible_id: 1588
+    version_name: Amplified Bible
+    version_commit: 96f4e9281c1ef3ee8996b64a95c859bf3520dc2c
+    path: dist/english/AMP.zst
+    file_size: 3433102
+  - version_id: AMPC
+    bible_id: 8
+    version_name: Amplified Bible, Classic Edition
+    version_commit: e6b2f89416754462870273367c1325c0874f79d7
+    path: dist/english/AMPC.zst
+    file_size: 2542284
+  - version_id: ESV
+    bible_id: 59
+    version_name: English Standard Version 2025
+    version_commit: 5db77de390e49e44b7364975d634a26d377ecbb2
+    path: dist/english/ESV.zst
+    file_size: 5171138
+  - version_id: MSG
+    bible_id: 97
+    version_name: The Message
+    version_commit: e4b92aef7874233f9b06382aa43cceee218288cf
+    path: dist/english/MSG.zst
+    file_size: 2329447
+  - version_id: NIV
+    bible_id: 111
+    version_name: New International Version
+    version_commit: 2fe3dfcac29f3e199a061cb352d85a2dcd8d048d
+    path: dist/english/NIV.zst
+    file_size: 2716342
+  - version_id: NKJV
+    bible_id: 114
+    version_name: New King James Version
+    version_commit: 2208725420c2e6a9828e13ee384f0e8b28f60797
+    path: dist/english/NKJV.zst
+    file_size: 3773073
+  - version_id: NLT
+    bible_id: 116
+    version_name: New Living Translation
+    version_commit: 30e62c9db0450f1220aa03b772e79e00f093fd89
+    path: dist/english/NLT.zst
+    file_size: 2838901
+  - version_id: TPT
+    bible_id: 1849
+    version_name: The Passion Translation (In Review)
+    version_commit: 98f89bdfc70af5700a1b143ce1ff1db39486868d
+    path: dist/english/TPT.zst
+    file_size: 3893729
+- language: français
+  translation: bible/français/lang.yaml
+  bibles:
+  - version_id: BDS
+    bible_id: 21
+    version_name: La Bible du Semeur 2015
+    version_commit: 203b3791b5401f7e81dc4029ed036064656eb328
+    path: dist/français/BDS.zst
+    file_size: 3487498
+  - version_id: NBS
+    bible_id: 104
+    version_name: Nouvelle Bible Segond
+    version_commit: 4607a803d685f330288e2fe85a0b3727684baa1a
+    path: dist/français/NBS.zst
+    file_size: 7494965
+  - version_id: S21
+    bible_id: 152
+    version_name: La Bible Segond 21
+    version_commit: 0d08c920a68ee367e2f5a89a73a2ef93b1c97c26
+    path: dist/français/S21.zst
+    file_size: 2545291
+- language: malagasy
+  translation: bible/malagasy/lang.yaml
+  bibles:
+  - version_id: BPFF
+    bible_id: 3103
+    version_name: Baiboly Protestanta Malagasy 2011
+    version_commit: 188820cb0c7cd5feb1b0bd88c39cf2e2805ba8f3
+    path: dist/malagasy/BPFF.zst
+    file_size: 2561680
+  - version_id: DIEM
+    bible_id: 396
+    version_name: DIEM PROTESTANTA
+    version_commit: 64709ed0597d8484a17ff602823996e7d7139b92
+    path: dist/malagasy/DIEM.zst
+    file_size: 3317806
+  - version_id: MBP
+    bible_id: 873
+    version_name: Baiboly Protestanta Malagasy
+    version_commit: 5db6427601cf4fd0f378c2392ee7ca6df885849b
+    path: dist/malagasy/MBP.zst
+    file_size: 2510792
